@@ -49,10 +49,10 @@
 <body>
     <img src="image/construccion.png" alt="En construcción">
     <h1>CashFlow en proceso</h1>
-    <p>Sin acceso redirigirá automáticamente a <a href="https://josecarlosgd.com/cashflow/login.php">Login</a></p>
-    <p>Te encuentras en inicio</p>
 
-<p>Sesion: Andrés N</p>    <a href="https://josecarlosgd.com/cashflow/index.php">Inicio</a>
+    <p>Te encuentras en Presupuesto</p>
+
+    <p>Sesion: Andrés N</p>    <a href="https://josecarlosgd.com/cashflow/index.php">Inicio</a>
     <a href="https://josecarlosgd.com/cashflow/datos.php">Datos</a>
     <a href="https://josecarlosgd.com/cashflow/agrupadores.php">Agrupadores</a>
     <a href="https://josecarlosgd.com/cashflow/calendario.php">Calendario</a>
